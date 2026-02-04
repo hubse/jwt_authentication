@@ -25,10 +25,3 @@ The server will run on `http://localhost:3000`.
 - **GET /api/customers**: Retrieve a list of customers (requires JWT authentication).
 - **GET /api/customers/:id**: Retrieve a specific customer by ID (requires JWT authentication).
 
-## Future Enhancements
-
-- Implement a database to store customer data instead of hardcoded values.
-- Add user registration and login functionality.
-- Improve error handling and logging.
-- Implement input validation for API requests.
-- Add unit tests for the API endpoints.
